@@ -1,0 +1,18 @@
+/* Created by: Graeme Barbe
+* Created on: Mar 04 2022
+*This css file is used to define the style for index.html
+*ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+	background-color: steelblue;
+}
+h1 {
+	background-color: rgb(90, 9, 3);
+	color: hsl(90, 30%, 11%);
+	padding: 77px;
+	text-align: center;
+}
+p{
+	background-color: rgb(150, 44, 90)
+}
