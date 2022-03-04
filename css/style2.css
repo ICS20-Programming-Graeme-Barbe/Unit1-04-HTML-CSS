@@ -1,0 +1,18 @@
+/* Created by: Graeme Barbe
+* Created on: Mar 04 2022
+*This css file is used to define the style for more_style.html
+*ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+	background-color: firebrick;
+}
+h1 {
+	background-color: rgb(180, 180, 1);
+	color: hsl(190, 40%, 7%);
+	padding: 22px;
+	text-align: center;
+}
+p{
+	background-color: rgb(10, 84, 9)
+}
